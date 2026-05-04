@@ -1,4 +1,4 @@
-This repository contains a desktop-based application designed to streamline academic administrative tasks. Developed using Java and Java Swing, the system provides a centralized platform for managing student records, faculty data, and course registrations with a focus on ease of use and data integrity.
+This  repository contains a desktop-based application designed to streamline academic administrative tasks. Developed using Java and Java Swing, the system provides a centralized platform for managing student records, faculty data, and course registrations with a focus on ease of use and data integrity.
 
 Key Features
 Student & Faculty Management: Comprehensive modules for adding, updating, and retrieving personal and academic profiles.
